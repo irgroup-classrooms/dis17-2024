@@ -1,1 +1,1 @@
-# dis17-2024
+# DIS17 - Search Engine Technologies - MiniTREC
